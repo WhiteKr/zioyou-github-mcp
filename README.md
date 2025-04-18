@@ -1,4 +1,4 @@
-# Welcome to zioyou-github-mcp! 👋
+# 지오유 깃허브 MCP! 👋
 
 안녕하세요! zioyou-github-mcp 레포지토리에 오신 것을 환영합니다.
 
